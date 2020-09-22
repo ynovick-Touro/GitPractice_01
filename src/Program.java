@@ -6,8 +6,7 @@ public class Program {
 		String msg = Message.getMessage();
 		
 		System.out.println(msg);
-		
-		System.out.println("Hello World");
+	
 		System.out.println("Hello again");
 	}
 
