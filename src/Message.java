@@ -6,7 +6,7 @@ public class Message {
 	}
 	
 	public static void foo() {
-		System.out.println("Foo");
+		System.out.println("Foooooo");
 		System.out.println("Foo");
 	}
 	
