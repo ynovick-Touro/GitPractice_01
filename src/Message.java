@@ -6,8 +6,7 @@ public class Message {
 	}
 	
 	public static void foo() {
-		System.out.println("Foo");
-		System.out.println("Foo");
+		int x = 7;
 	}
 	
 	public static void bar() {
