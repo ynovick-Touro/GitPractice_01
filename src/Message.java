@@ -10,6 +10,6 @@ public class Message {
 	}
 	
 	public static void bar() {
-		System.out.println("Bar");	
+		System.out.println("Barrrrr");	
 	}
 }
