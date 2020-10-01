@@ -7,6 +7,9 @@ public class Message {
 	
 	public static void foo() {
 		int x = 7;
+
+		System.out.println("Foooooo  7");
+		System.out.println("Foo");
 	}
 	
 	public static void bar() {
